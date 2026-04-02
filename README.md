@@ -67,7 +67,7 @@ If you want to run it locally or manually on your server:
 1. Create a `.env` file:
    ```env
    IMAGE_SERVER_SECRET=your_random_secret
-   BASE_URL=http://localhost:4000
+   BASE_URL=http://localhost:4001
    ```
 2. Start the server:
    ```bash
